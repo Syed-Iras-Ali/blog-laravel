@@ -15,7 +15,7 @@ It features user authentication, post management (CRUD), and Bootstrap styling.
 - PHP 7.4+
 - Composer
 - MySQL
-- Node.js & NPM (optional for frontend assets)
+- Node.js & NPM 
 
 ## Setup Instructions
 
